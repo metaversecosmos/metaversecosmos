@@ -1,23 +1,27 @@
+<div align="center">
+
 # ⚛️ Satoshi Qore
 
-> Web3 infrastructure operator • Node runner • Early-stage system builder
+### Web3 Infrastructure Operator • Node Runner • Decentralized Systems Builder
+
+</div>
 
 ---
 
-## 🌐 About Me
+## 🌐 Identity
 
 I operate blockchain infrastructure in real environments.
 
-Not a traditional software engineer —  
-I learn Web3 by running nodes, testing systems, and working directly with decentralized networks.
+I’m not focused on traditional software engineering.  
+I focus on running systems, testing networks, and understanding Web3 from the operational layer.
 
 ---
 
 ## 🚀 What I Do
 
 - ⚙️ Run blockchain nodes (QoreChain & experimental networks)
-- 🧪 Test decentralized infrastructure in real conditions
-- 🧠 Learn by deploying, breaking, and fixing systems
+- 🧪 Stress-test decentralized infrastructure systems
+- 🧠 Learn through deployment, failure, and recovery
 - 🌍 Participate in early-stage Web3 ecosystems
 
 ---
@@ -25,29 +29,29 @@ I learn Web3 by running nodes, testing systems, and working directly with decent
 ## 🧩 Current Focus
 
 - QoreChain Light Node operations
-- Node stability & uptime monitoring
+- Node stability, uptime & performance monitoring
 - Docker-based blockchain environments
-- Real-world infrastructure experience (not theory)
+- Real-world infrastructure experience (production mindset)
 
 ---
 
 ## ⚡ Philosophy
 
-> “I don’t study systems — I run them in production.”
+> “Understanding comes from operating systems in real conditions.”
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Stack
 
-Docker • CLI • Linux/VPS • GitHub • Web3 Nodes • Networking basics
+Docker • Linux • VPS • CLI • GitHub • Web3 Nodes • Networking basics
 
 ---
 
 ## 📡 Status
 
-🟢 Active in Web3 infrastructure  
-🧪 Experimenting with nodes & protocols  
-⚙️ Building real operational experience in decentralized systems  
+🟢 Active: Web3 Infrastructure  
+🧪 Testing: Node systems & protocols  
+⚙️ Building: Real operational experience in decentralized networks  
 
 ---
 
@@ -55,3 +59,4 @@ Docker • CLI • Linux/VPS • GitHub • Web3 Nodes • Networking basics
 
 - GitHub: https://github.com/metaversecosmos  
 - X: https://x.com/satoshi_Qore  
+</div>
