@@ -1,4 +1,4 @@
-# ⚛ Hi, I'm Satoshi Qore
+# Satoshi Qore
 
 ## 🚀 Web3 × AI Infrastructure Explorer
 
