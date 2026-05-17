@@ -52,12 +52,6 @@ I’m currently deeply focused on the QoreChain ecosystem:
 
 ---
 
-💡 *"Build quietly. Ship globally. Scale endlessly."*
-
----
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metaversecosmos&show_icons=true&theme=radical)
