@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6c00ff&height=180&section=header&text=QoreChain%20Builder&fontSize=35&fontColor=ffffff" />
+</p>
+
+
 # ⚛️ Satoshi // QoreChain Builder
 
 Building quantum-resilient, modular blockchain infrastructure for decentralized networks.
