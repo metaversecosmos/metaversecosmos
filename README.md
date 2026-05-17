@@ -1,47 +1,46 @@
 # ⚛️ Satoshi Qore
 
-From Bitcoin curiosity → Web3 infrastructure operator era.
+> From Bitcoin curiosity → Web3 infrastructure operator
+
+![Banner](https://raw.githubusercontent.com/metaversecosmos/metaversecosmos/main/banner.png)
+
+---
+
+## 🌐 Web3 Operator Profile
 
 I’m not a traditional software engineer.  
-I’m a hands-on operator who learns by running real systems.
+I operate decentralized systems in real environments, learn by running infrastructure, and improve through hands-on experience.
+
+Focused on execution over theory.
 
 ---
 
 ## 🚀 What I Do
 
-- ⚙️ Run and test blockchain nodes (QoreChain & similar networks)
-- 🧪 Experiment with Web3 infrastructure tools
-- 🧠 Learn by building, breaking, and fixing systems
-- 🌐 Focused on decentralized networks and future infrastructure
+- ⚙️ Run blockchain nodes (QoreChain & experimental networks)
+- 🧪 Test Web3 infrastructure systems in real environments
+- 🧠 Learn by deploying, breaking, and fixing
+- 🌐 Explore decentralized network operations
 
 ---
 
-## 🧩 Current Focus
+## 🧩 Active Focus
 
 - QoreChain Light Node operations
-- Web3 infrastructure tooling
-- Node stability, setup & automation
-- Real-world blockchain participation (not just theory)
+- Node reliability & uptime stability
+- Docker-based blockchain environments
+- Automation of infrastructure workflows
+- Early-stage Web3 participation systems
 
 ---
 
-## ⚡ Mindset
+## ⚡ Philosophy
 
-> “I don’t design the system — I operate it in the real world.”
-
----
-
-## 🛠️ Tools I Use
-
-- Docker / CLI tools
-- Windows & Linux environments
-- VPS setups
-- GitHub workflows
-- Web3 node ecosystems
+> “Real understanding comes from running the system, not reading about it.”
 
 ---
 
-## 🌍 Connect
+## 🛠️ Stack
 
-- GitHub: https://github.com/metaversecosmos  
-- X: https://x.com/satoshi_Qore  
+```text
+Docker • CLI • Linux • Windows VPS • Git • Web3 Nodes • Networking basics
