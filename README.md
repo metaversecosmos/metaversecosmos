@@ -1,4 +1,4 @@
-# ⚛ Satoshi Qore ⚛
+#  Satoshi Qore ⚛
 
 
 ## 🚀 Building the next-generation Web3 + AI-native infrastructure layer
