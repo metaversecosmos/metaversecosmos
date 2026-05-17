@@ -5,7 +5,6 @@
 ### Web3 & Blockchain Infrastructure Enthusiast
 
 <img src="https://raw.githubusercontent.com/metaversecosmos/metaversecosmos/main/banner.png" width="100%" />
-
 ---
 
 </div>
