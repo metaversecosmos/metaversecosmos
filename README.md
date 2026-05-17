@@ -1,24 +1,23 @@
 # ⚛️ Satoshi Qore
 
-> Web3 infrastructure operator • QoreChain ecosystem participant
-
-![Banner](https://raw.githubusercontent.com/metaversecosmos/metaversecosmos/main/banner.png)
+> Web3 infrastructure operator • Node runner • Early-stage system builder
 
 ---
 
-## 🌐 Who I Am
+## 🌐 About Me
 
-I’m not a traditional developer.
+I operate blockchain infrastructure in real environments.
 
-I operate blockchain nodes, test decentralized systems, and learn Web3 by running real infrastructure — not just reading about it.
+Not a traditional software engineer —  
+I learn Web3 by running nodes, testing systems, and working directly with decentralized networks.
 
 ---
 
 ## 🚀 What I Do
 
-- ⚙️ Run and monitor blockchain nodes (QoreChain & testnets)
-- 🧪 Experiment with decentralized infrastructure systems
-- 🧠 Learn through real deployment, failures, and fixes
+- ⚙️ Run blockchain nodes (QoreChain & experimental networks)
+- 🧪 Test decentralized infrastructure in real conditions
+- 🧠 Learn by deploying, breaking, and fixing systems
 - 🌍 Participate in early-stage Web3 ecosystems
 
 ---
@@ -26,21 +25,21 @@ I operate blockchain nodes, test decentralized systems, and learn Web3 by runnin
 ## 🧩 Current Focus
 
 - QoreChain Light Node operations
-- Node stability & uptime optimization
+- Node stability & uptime monitoring
 - Docker-based blockchain environments
-- Real-world Web3 infrastructure experience
+- Real-world infrastructure experience (not theory)
 
 ---
 
-## ⚡ Mindset
+## ⚡ Philosophy
 
 > “I don’t study systems — I run them in production.”
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tools
 
-Docker • CLI • Linux/VPS • GitHub • Web3 nodes • Networking basics
+Docker • CLI • Linux/VPS • GitHub • Web3 Nodes • Networking basics
 
 ---
 
@@ -48,7 +47,7 @@ Docker • CLI • Linux/VPS • GitHub • Web3 nodes • Networking basics
 
 🟢 Active in Web3 infrastructure  
 🧪 Experimenting with nodes & protocols  
-⚙️ Building operational experience in decentralized systems  
+⚙️ Building real operational experience in decentralized systems  
 
 ---
 
