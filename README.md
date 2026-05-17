@@ -1,25 +1,25 @@
 # Satoshi Qore
 
-Web3 ve blockchain sistemleriyle ilgileniyorum.
+I am interested in blockchain and Web3 systems.
 
-QoreChain ve benzeri node sistemlerini kurarak öğreniyorum.
+I learn by setting up and running node systems like QoreChain.
 
 ---
 
 ## 🚀 What I Do
 
-- Blockchain node kurulumları (QoreChain)
-- Web3 altyapılarını deneme ve öğrenme
-- Docker ve CLI araçlarıyla çalışma
-- Sistemleri çalıştırarak öğrenme
+- Blockchain node setups (QoreChain)
+- Learning Web3 infrastructure by experimenting
+- Working with Docker and CLI tools
+- Learning systems by running them in practice
 
 ---
 
-## 🧩 Focus
+## 🧩 Focus Areas
 
-- Node kurulumu ve çalıştırma
-- Web3 altyapılarını anlamak
-- Pratik deneyim kazanmak
+- Node installation and operation
+- Understanding Web3 infrastructure
+- Gaining practical hands-on experience
 
 ---
 
