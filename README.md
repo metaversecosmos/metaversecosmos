@@ -1,25 +1,25 @@
-# Satoshi Qore
+# Hi, I'm Satoshi Qore 👋
 
-I am interested in blockchain and Web3 systems.
+I’m interested in Web3 and blockchain infrastructure.
 
-I learn by setting up and running node systems like QoreChain.
+I learn by building and running real systems like QoreChain node setups.
 
 ---
 
 ## 🚀 What I Do
 
-- Blockchain node setups (QoreChain)
-- Learning Web3 infrastructure by experimenting
-- Working with Docker and CLI tools
-- Learning systems by running them in practice
+- Run blockchain nodes (QoreChain and test networks)
+- Experiment with Web3 infrastructure tools
+- Learn by setting up and operating systems
+- Work hands-on with Docker and CLI tools
 
 ---
 
-## 🧩 Focus Areas
+## 🧩 Focus
 
-- Node installation and operation
-- Understanding Web3 infrastructure
-- Gaining practical hands-on experience
+- Node operations and deployment
+- Understanding decentralized infrastructure
+- Learning by doing, not just reading
 
 ---
 
