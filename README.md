@@ -1,75 +1,96 @@
-# Hi, I'm Satoshi 👋
+# ⚛️ Satoshi // QoreChain Builder
 
-🚀 Blockchain & Web3 Builder  
-⚡ Focused on the QoreChain ecosystem  
-🧠 Building open-source infrastructure tools for decentralized systems  
-
----
-
-## 🔧 What I'm Working On
-- QoreChain Light Node optimization  
-- Node automation tools  
-- Web3 infrastructure experiments  
+🚀 Blockchain & Web3 Infrastructure Builder  
+⚡ Focused on QoreChain ecosystem  
+🧠 Designing modular, scalable, quantum-resilient systems for decentralized networks  
 
 ---
 
-## 📦 Projects
-- ⚛️ QoreChain Light Node tools  
-- 🧪 Blockchain infrastructure utilities (WIP)  
-- ⚙️ Automation & validator tooling  
+## 🌐 Mission
+
+Building open-source infrastructure for the next generation of blockchain systems.
+
+Focus areas:
+- ⚛️ Post-quantum secure architecture  
+- 🔗 Modular blockchain infrastructure  
+- ⚙️ Developer-first node systems  
+- 🌍 Scalable decentralized ecosystems  
 
 ---
 
-## 🚀 Ecosystem Focus
-I’m currently deeply focused on the QoreChain ecosystem:
+## 🧬 What I'm Building
+
+### 🔗 QoreChain Ecosystem
+Lightweight, scalable node & infrastructure layer for decentralized applications.
 
 - Light Node optimization  
-- Tooling & automation  
-- Infrastructure scaling experiments  
-- Open-source protocol contributions  
+- Validator tooling & automation  
+- Network performance experiments  
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Infrastructure Tools
+Open-source tools for developers building on decentralized systems.
+
+- Node automation scripts  
+- Deployment & orchestration tools  
+- Monitoring & debugging utilities  
+
+---
+
+### 🧪 Research & Experiments
+Exploring next-gen blockchain architectures.
+
+- Post-quantum cryptography in blockchain  
+- AI-native infrastructure layers  
+- Scalable consensus experiments  
+
+---
+
+## 🚀 Current Focus
+
+- 🔗 QoreChain Light Node development  
+- ⚙️ Automation & tooling ecosystem  
+- 🌐 Scalable Web3 infrastructure  
+- 📡 Open-source protocol contributions  
+
+---
+
+## 📊 Live Developer Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metaversecosmos&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaversecosmos&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metaversecosmos&layout=compact&theme=radical)
 
 ---
 
-## ⚡ Now Building
-- 🔗 QoreChain Light Node tools  
-- ⚙️ Node automation scripts  
-- 🌐 Web3 infrastructure experiments  
-- 📡 Open-source contributions in progress  
+## 🔥 Activity Pulse
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=metaversecosmos&theme=radical&hide_border=true)
 
 ---
 
-## 🌍 Connect
-- GitHub: https://github.com/metaversecosmos  
-- X: https://x.com/satoshi_Qore  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metaversecosmos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaversecosmos&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak & Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metaversecosmos&theme=radical&hide_border=true)
-
----
-
-## 👀 Profile Views
+## 👀 Network Signal
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=metaversecosmos&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
 
-💡 *"Build quietly. Ship globally. Scale endlessly."*
+## 🌍 Connect Layer
+
+- GitHub: https://github.com/metaversecosmos  
+- X (Twitter): https://x.com/satoshi_Qore  
+
+---
+
+## ⚛️ Philosophy
+
+> “Build quietly. Ship globally. Scale endlessly.”
+
+---
+
+## 📡 Status
+
+🟢 Actively building QoreChain ecosystem  
+🟡 Researching next-gen blockchain infrastructure  
+🔵 Open to collaboration in Web3 infrastructure space  
