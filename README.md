@@ -1,77 +1,43 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6c00ff&height=180&section=header&text=QoreChain%20Builder&fontSize=35&fontColor=ffffff" />
-</p>
+# ⚛️ Satoshi Qore
 
+From Bitcoin curiosity → Web3 infrastructure operator era.
 
-# ⚛️ Satoshi // QoreChain Builder
-
-Building quantum-resilient, modular blockchain infrastructure for decentralized networks.
+I’m not a traditional software engineer.  
+I’m a hands-on operator who learns by running real systems.
 
 ---
 
-## 🌐 Executive Summary
+## 🚀 What I Do
 
-I design and build open-source infrastructure systems focused on scalability, automation, and post-quantum security for Web3 networks.
-
-Primary focus: **QoreChain ecosystem development**
-
----
-
-## 🚀 What I’m Building
-
-### 🔗 QoreChain Infrastructure Layer
-A modular light node and tooling ecosystem for decentralized applications.
-
-- Light Node optimization  
-- Validator infrastructure tooling  
-- Network automation & reliability systems  
+- ⚙️ Run and test blockchain nodes (QoreChain & similar networks)
+- 🧪 Experiment with Web3 infrastructure tools
+- 🧠 Learn by building, breaking, and fixing systems
+- 🌐 Focused on decentralized networks and future infrastructure
 
 ---
 
-### ⚙️ Developer Infrastructure Tools
-Open-source tooling for blockchain developers and operators.
+## 🧩 Current Focus
 
-- Node deployment automation  
-- Monitoring & debugging systems  
-- Infrastructure orchestration scripts  
-
----
-
-### 🧪 Research Direction
-Exploring next-generation blockchain architectures.
-
-- Post-quantum cryptography integration  
-- AI-native infrastructure systems  
-- Scalable consensus experiments  
+- QoreChain Light Node operations
+- Web3 infrastructure tooling
+- Node stability, setup & automation
+- Real-world blockchain participation (not just theory)
 
 ---
 
-## 📡 Current Focus
+## ⚡ Mindset
 
-- QoreChain Light Node architecture  
-- Automation & infrastructure tooling  
-- Scalable Web3 systems  
-- Open-source protocol contributions  
+> “I don’t design the system — I operate it in the real world.”
 
 ---
 
-## 📊 Proof of Work
+## 🛠️ Tools I Use
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metaversecosmos&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metaversecosmos&layout=compact&theme=radical)
-
----
-
-## 🔥 Activity Signal
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=metaversecosmos&theme=radical&hide_border=true)
-
----
-
-## 👀 Network Reach
-
-![Visitor Count](https://komarev.com/ghpvc/?username=metaversecosmos&label=Profile%20Views&color=blueviolet&style=flat)
+- Docker / CLI tools
+- Windows & Linux environments
+- VPS setups
+- GitHub workflows
+- Web3 node ecosystems
 
 ---
 
@@ -79,21 +45,3 @@ Exploring next-generation blockchain architectures.
 
 - GitHub: https://github.com/metaversecosmos  
 - X: https://x.com/satoshi_Qore  
-
----
-
-## ⚛️ Philosophy
-
-> Build infrastructure first.  
-> Optimize for scale, not hype.  
-> Ship quietly, grow globally.
-
----
-
-## 📡 Status
-
-🟢 Actively building QoreChain infrastructure  
-🟡 Researching post-quantum & AI-native systems  
-🔵 Open to collaboration in Web3 infrastructure  
-
----
